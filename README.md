@@ -12,3 +12,5 @@
 This contract is deployed on the mumbai testnest at this addresss: 0x7de1e6ae6d54F747CaCF92957954c306DCeABfd1
 
 The frontend integration is done using thirdweb and the value to be set is hardcoded as 23, such that once a user signs the transaction to set value, it sets the value as 23.
+
+Live link: https://cartesi-task.vercel.app/
