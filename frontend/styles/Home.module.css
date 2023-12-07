@@ -11,7 +11,11 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
+.button{
+  margin: 100px;
+  padding: 15px;
+  border-radius: 25%;
+}
 .gradientText1 {
   background: -webkit-linear-gradient(#a79af9, #7aa8d2);
   -webkit-background-clip: text;
