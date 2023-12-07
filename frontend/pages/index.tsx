@@ -30,7 +30,7 @@ const Home: NextPage = () => {
 
        <div className={styles.header}>
          <h1 className={styles.title}>
-           Welcome to{" "}
+           Explore {" "}
            <span className={styles.gradientText0}>
              the value setter dApp.
            </span>
